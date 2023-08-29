@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Dynamic Forms](https://github.com/0rkx/Dynamic-Forms)
 
-- 🌱 I’m currently learning **CBSE 12th, Python, Javascript**
+- 🌱 I’m currently learning **CBSE 12th, Python, Javascript,SQL**
 
 - 👯 I’m looking to collaborate on **Projects related to Cybersecurity (i am new i would like to check it out)**
 
