@@ -1,5 +1,5 @@
 <h1 align="center">Hi there I'm Owais Raza Khan 👋</h1>
-<h3 align="center">Aspiring AR Developer | 17-Year-Old Tech Advocate</h3>
+<h3 align="center">Aspiring AR Developer | 17-Year-Old </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0rkx&label=Profile%20views&color=a1b40e&style=flat" alt="0rkx" /> </p>
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Dynamic Forms](https://github.com/0rkx/Dynamic-Forms)
 
-- 🌱 I’m currently learning **Advanced AR Development Techniques.**
+- 🌱 I’m currently learning **Open CV**
 
-- 🤝 I’m looking to collaborate on **Open Source AR Projects.**
+- 🤝 I’m looking to collaborate on **Open Source  Projects.**
 
 - 📫 How to reach me **khanowaisraza@icloud.com**
 
