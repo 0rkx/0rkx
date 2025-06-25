@@ -1,10 +1,5 @@
 # Hi there, I'm Owais  Khan ��
 
-## 🚀 About Me
-**Computer Science Student | AI Innovator | Quantum Computing Researcher | Entrepreneur**
-
-I'm a passionate Computer Science student at Punjab Engineering College, currently pursuing my Bachelor of Technology while building innovative AI solutions and exploring quantum computing. Based in Qatar, I love creating impactful technology solutions.
-
 
 ## 🌱 Currently Learning
 - **OpenCV** - Computer vision and image processing
@@ -19,14 +14,6 @@ I'm a passionate Computer Science student at Punjab Engineering College, current
 - **Full-Stack Development**: Frontend, Backend, Database Design
 - **Tools & Technologies**: Git, WordPress, Zapier, n8n, Docker, AWS, Node.js
 - **Marketing & Analytics**: Marketing Analytics, Content Strategy, Data-driven Growth
-
-## 🏆 Key Achievements
-- **Qatar Innovation Hackathon 2025**: 1st Place (1 of 8 winners from 366 teams)
-- **Pre-seed Funding**: 25,000 QAR secured for Ruwyah
-- **Quantum Research**: 95%+ simulation accuracy in quantum computing research
-- **Honorable Mention**: ICPC – International Collegiate Programming Contest (Sep 2023)
-- **Freelance Success**: Delivered 6 freelance web-dev projects (2023–2025)
-- **Teaching Impact**: Tutored 20+ students in Python; most scored 80%+ in assessments
 
 ## 📚 Certifications & Courses
 - **Market Research, Marketing Analytics** (LinkedIn, 2025)
