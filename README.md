@@ -6,10 +6,6 @@
 I'm a passionate Computer Science student at Punjab Engineering College, currently pursuing my Bachelor of Technology while building innovative AI solutions and exploring quantum computing. Based in Qatar, I love creating impactful technology solutions.
 
 
-## 🔭 Currently Working On
-- **ruwyah** - AI-powered marketing optimization platform (Founder & Lead Developer)
-- **Dynamic Forms** - AI-powered form generator using GPT-3
-
 ## 🌱 Currently Learning
 - **OpenCV** - Computer vision and image processing
 - **Quantum Computing** - Qiskit, quantum algorithms, and quantum cryptography
@@ -23,24 +19,6 @@ I'm a passionate Computer Science student at Punjab Engineering College, current
 - **Full-Stack Development**: Frontend, Backend, Database Design
 - **Tools & Technologies**: Git, WordPress, Zapier, n8n, Docker, AWS, Node.js
 - **Marketing & Analytics**: Marketing Analytics, Content Strategy, Data-driven Growth
-
-## 🚀 Featured Projects
-
-### [ruwyah](https://ruwyah.ai)
-AI-powered marketing optimization platform that stress-tests ideas before they cost you. Active startup with 50+ users and 25,000 QAR in pre-seed funding.
-
-### [Dynamic Forms](https://github.com/0rkx/Dynamic-Forms) (Dec 2024 - Present)
-Currently developing an AI-powered form generator that uses GPT-3 to create adaptive, context-aware questions.
-
-### [Youtube Together](https://github.com/0rkx/Wizard_Lizard)
-Discord bot for utilizing Discord Voice activities, serving 15,000+ unique users.
-
-### [Classic Qatar](https://classicqatar.net)
-Developed a website for a local company, achieved 600% traffic increase through strategic optimization.
-
-
-### [Tic-Tac-Toe](https://github.com/0rkx/Tic-Tac-Toe) (June 2023)
-Developed a GUI-based Python Tic-Tac-Toe game using Tkinter as the final project for CMU's Python Programming certification. Emphasized object-oriented programming, clean code structure, and user interface design principles.
 
 ## 🏆 Key Achievements
 - **Qatar Innovation Hackathon 2025**: 1st Place (1 of 8 winners from 366 teams)
@@ -69,13 +47,6 @@ Developed a GUI-based Python Tic-Tac-Toe game using Tkinter as the final project
 - **LinkedIn**: [Owais Khan](https://www.linkedin.com/in/orkx)
 - **GitHub**: [0rkx](https://github.com/0rkx)
 - **Company**: [ruwyah](https://ruwyah.ai)
-
-## 🌟 Fun Facts
-- Started coding at a young age
-- Passionate about teaching and mentoring (tutored 50+ students)
-- Loves exploring new technologies, especially quantum computing
-- Believes in the power of AI and quantum computing to solve real-world problems
-- Always eager to learn and grow
 
 ---
 
