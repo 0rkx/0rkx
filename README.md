@@ -26,11 +26,11 @@ I'm a passionate Computer Science student at Punjab Engineering College, current
 
 ## 🚀 Featured Projects
 
+### [ruwyah](https://ruwyah.ai)
+AI-powered marketing optimization platform that stress-tests ideas before they cost you. Active startup with 50+ users and 25,000 QAR in pre-seed funding.
+
 ### [Dynamic Forms](https://github.com/0rkx/Dynamic-Forms) (Dec 2024 - Present)
 Currently developing an AI-powered form generator that uses GPT-3 to create adaptive, context-aware questions.
-
-### [Ruwyah](https://ruwyah.ai)
-AI-powered marketing optimization platform that stress-tests ideas before they cost you. Active startup with 50+ users and 25,000 QAR in pre-seed funding.
 
 ### [Youtube Together](https://github.com/0rkx/Wizard_Lizard)
 Discord bot for utilizing Discord Voice activities, serving 15,000+ unique users.
@@ -38,8 +38,6 @@ Discord bot for utilizing Discord Voice activities, serving 15,000+ unique users
 ### [Classic Qatar](https://classicqatar.net)
 Developed a website for a local company, achieved 600% traffic increase through strategic optimization.
 
-### [Wizard Lizard](https://github.com/0rkx/Wizard_Lizard)
-Discord bot for a small server, 400+ unique users.
 
 ### [Tic-Tac-Toe](https://github.com/0rkx/Tic-Tac-Toe) (June 2023)
 Developed a GUI-based Python Tic-Tac-Toe game using Tkinter as the final project for CMU's Python Programming certification. Emphasized object-oriented programming, clean code structure, and user interface design principles.
@@ -78,17 +76,6 @@ Developed a GUI-based Python Tic-Tac-Toe game using Tkinter as the final project
 - Loves exploring new technologies, especially quantum computing
 - Believes in the power of AI and quantum computing to solve real-world problems
 - Always eager to learn and grow
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0rkx&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0rkx&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0rkx&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ---
 
