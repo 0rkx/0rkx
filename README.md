@@ -1,4 +1,4 @@
-# Hi there, I'm Owais  Khan ��
+# Hi there, I'm Owais  Khan 
 
 
 ## 🌱 Currently Learning
